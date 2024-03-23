@@ -11,4 +11,4 @@
 //     </>
 // );
 
-export * from './UI';
+export * from './src/UI';
